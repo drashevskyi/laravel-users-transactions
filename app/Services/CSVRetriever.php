@@ -3,6 +3,7 @@
 namespace App\Services;
 
 use App\Contracts\DataRetriever;
+use Illuminate\Support\Facades\Storage;
 
 class CSVRetriever implements DataRetriever {
     
