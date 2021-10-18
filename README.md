@@ -1,6 +1,6 @@
 Instructions:
 
-1. Clone GitHub repo for this project
+1. git clone
 2. cd to project root
 3. Install Composer Dependencies >composer install
 4. Create a copy of .env file >cp .env.example .env
